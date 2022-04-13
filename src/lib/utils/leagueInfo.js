@@ -11,7 +11,7 @@ export const homepageText = `
   <p></p>
   <p>This site (for now?) only shows sleeper data.  Therefore, no history before 2019.</p>
   <p></p>
-  <p>There is some contact information and manager bios for each team. (Still a work in progress.</p>
+  <p>There is some contact information and manager bios for each team. (Still a work in progress.)</p>
   <p></p>
   <p>I can easily change this initial post so we can have our weekly power rankings posted here!</p>
 `;

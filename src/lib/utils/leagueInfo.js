@@ -1,7 +1,7 @@
 /*   STEP 1   */
 export const leagueID = "785351115951685632"; // your league ID
 export const leagueName = "Detroit Dynasty"; // your league name
-export const dues = 00; // (optional) used in template constitution page
+export const dues = 5; // (optional) used in template constitution page
 export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
 

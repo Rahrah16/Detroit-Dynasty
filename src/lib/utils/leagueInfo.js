@@ -9,7 +9,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 export const homepageText = `
   <p>All, welcome to our Detroit Dynasty website.  So far it only has history for sleeper data, but I am working on adding more.</p>
   <p></p>
-  <pIt has close to live updates and we can easily post weekly power rankings and other happenings here as well.</p>
+  <p>It has close to live updates and we can easily post weekly power rankings and other happenings here as well.</p>
   <p></p>
 //   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 //   <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>

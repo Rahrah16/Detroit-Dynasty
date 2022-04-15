@@ -207,7 +207,7 @@ export const managers = [
       "name": "Micah Coplin",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Battle Creek", // (optional)
-      "bio": "I have played fantasy football for a few years now but still relatively new to dynasty football. I have really enjoyed playing Fantasy and look forward to compete in this league.",
+      "bio": "I have played in redraft leagues for a few years now but relatively new to dynasty football. I have enjoyed building my team and negotiating trades with players and future picks. Taking risks on young players and mixing up my roster with veterans to help win games. I look forward to competing in this league and winning many many championships in the near future.",
       "photo": "/managers/Micah.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2017, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "det", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -220,7 +220,7 @@ export const managers = [
       "favoritePlayer": 7547, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "RB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
       "rookieOrVets": "Rookies", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-      "philosophy": "Building a team with a good mix’s of veteran and rookie players",
+      "philosophy": "Build a team with young talent along with veteran players who are reliable from week to week.",
       "tradingScale": 1, // 1 - 10
       "preferredContact": "269-838-3475", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },

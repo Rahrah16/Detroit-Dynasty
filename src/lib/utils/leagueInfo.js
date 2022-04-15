@@ -55,7 +55,7 @@ export const managers = [
       "location": "Taco Bell", // (optional)
       "bio": "I would like to thank the Make-A-Wish foundation for giving me the opportunity to join this league, even though they withdrew their offer for a free fantasy win once they found out I have no real condition and my only ailment is my Ibuprophen addiciton and that I cant last a full offseason.",
       "photo": "/managers/Ben.png", // square ratio recommended (no larger than 500x500)
-      "fantasyStart": 2069, // (optional) when did the manager start playing fantasy football
+      "fantasyStart": 2022, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "cle", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Rebuild", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "rival": {
@@ -64,10 +64,10 @@ export const managers = [
         image: "/managers/Ben.png", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
       "favoritePlayer": 736, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
-      "valuePosition": "K", // (optional) Favorite position (QB, WR, RB, TE, etc.)
+      "valuePosition": "P", // (optional) Favorite position (QB, WR, RB, TE, etc.)
       "rookieOrVets": "Rookies", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
       "philosophy": "I run everything through AskJeeves.com and AOL chatrooms.",
-      "tradingScale": 80085, // 1 - 10
+      "tradingScale": 69, // 1 - 10
       "preferredContact": "269-274-5481", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
     {
